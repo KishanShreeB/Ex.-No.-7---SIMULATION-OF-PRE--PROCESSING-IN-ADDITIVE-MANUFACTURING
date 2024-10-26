@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:KISHAN SHREE B
+### Register Number:212223100022
+![image](https://github.com/user-attachments/assets/4996376a-fa91-4d6e-af26-24dc7f46c799)
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
